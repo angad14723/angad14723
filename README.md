@@ -1,5 +1,4 @@
-### Namaste 👋
-
+### Namaste 🙏
 <!--
 **angad14723/angad14723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
