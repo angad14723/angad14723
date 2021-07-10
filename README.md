@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on flutter and android.
-- 🌱 Learning nodeJs.
+- 🌱 Learning swift.
 - 👯 I’m looking to collaborate on youtube and github.
 - 🤔 Looking for help with flutter team and google as well.
 - 💬 Ask me about tech stuffs.
