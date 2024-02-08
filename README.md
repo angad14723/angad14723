@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 -->
-- Working on scaling complex projects.
+- Working on scaling complex Applications.
 - Proficient in Swift & Flutter.
 - 🌱 Learning AI/ML.
 - 👯 I’m looking to collaborate on youtube and github.
